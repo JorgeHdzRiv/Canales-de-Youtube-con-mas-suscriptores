@@ -13,4 +13,8 @@ YouTube ha tenido un impacto social sin precedentes, influyendo en la cultura po
 
 ## Hipervinculos
 
-![Analisis de Datos](./notebook.ipynb)
+[Analisis de Datos](./notebook.ipynb)
+
+## Contacto
+
+[Linkedin]("https://www.linkedin.com/in/jorhdzriv/")
